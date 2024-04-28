@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+	<main class="vox-container">
+
+		{%for post in posts %}
+
+			<a href="/post/?id={{post.id}}">
+				<div class="vox" style="background-image: url('{{ post.imgUrl }}'); background-size: cover;">
+					<h2>{{post.title}}</h2>
+				</div>
+			</a>
+
+		{% endfor %}
+      
+	</main>
+
+
+{% endblock %}

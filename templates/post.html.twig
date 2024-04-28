@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+
+{% block body %}
+<main class="post-container">
+<div class="post">
+
+<h1>{{post.title}}</h1>
+<img class="post-img" src="{{post.imgUrl}}">
+<p>{{post.body}}</p>
+
+
+
+</div>
+
+</main>
+{% endblock %}
+
