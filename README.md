@@ -1,11 +1,8 @@
 # Voxinga! Fase 0
 
-El objetivo de este mini proyecto es aplicar todos los conocimientos adquiridos en el <a href="https://platzi.com/cursos/symfony/">Curso de Fundamentos de Symfony</a> de Platzi. La idea es realizar una especie de híbrido entre las difuntas Taringa! y Voxed, en las que cualquier persona pueda publicar un post con las características de lo que se consideraba Inteligencia Colectiva. 
+El propósito de este proyecto breve es poner en práctica todos los conocimientos obtenidos en el Curso de Fundamentos de Symfony de Platzi. Se busca crear una plataforma que fusiona elementos de las ya desaparecidas Taringa! y Voxed, permitiendo a cualquier usuario publicar contenido con las características de lo que se conoce como Inteligencia Colectiva.
 
-Es importante mencionar que este proyecto no ha sido pensado para utilizarse en entornos productivos y <b>adolece de una infinidad de problemas en el front-end</b>. 
-
-## ¿Por qué fase 0?
-Este proyecto de aprendizaje aún no incluye muchas funcionalidades básicas, y he decidido no incorporarlas en este repositorio para mantener un orden en mis entregas en Platzi. La fase 0 establece la base sobre la cual iré agregando características a medida que avance en mis clases en dicha plataforma.
+Es relevante señalar que este proyecto no ha sido diseñado para su implementación en entornos productivos y presenta numerosos desafíos en el diseño de su interfaz de usuario.
 
 ## Desarrollo
 
